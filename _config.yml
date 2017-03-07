@@ -1,8 +1,8 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: 怪咖環境資訊股份有限公司
+description: 慈心華德福高中環境與資訊專題研究課程網站
+baseurl: "/freakhq" # the subpath of your site, e.g. /blog
+url: "https://iscixin.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Lorem Ipsum
