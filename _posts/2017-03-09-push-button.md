@@ -2,7 +2,7 @@
 layout: post
 title: "Arduino / I01 / 按壓開關"
 date: 2017-03-09 00:00:05
-description: "按壓開關 (Push button) 是一個常開按鈕，平常為開路不連通，按下去時才形成通路。"
+description: "按壓開關 (Push button) 是一個常開按鈕，不按壓時為開路不連通(OFF)，按壓時形成短路連通(ON)。"
 main-class: 'dev'
 color: '#637a91'
 tags:
@@ -102,13 +102,6 @@ De acordo com as versões do iOS e o aparelho, temos os seguintes tamanhos:
 </tr>
 </tbody></table>
 
-####JESUS, MARIA, JOSÉ, É IMAGEM PARA CARAMBA! NÃO VOU FAZER ISSO!
-
-Relaxa amigo, existem geradores na net, esses dois abaixo são muito bons:
-
-* [Real Favicon Generator](http://realfavicongenerator.net/)
-* [Iconogen](http://iconogen.com/)
-
 E como faço para os apps lerem isso aí?
 
 {% highlight html %}
@@ -142,4 +135,4 @@ Para fazer funcionar, basta adicionar as seguintes linhas no head:
 Tem [esse site](http://www.buildmypinnedsite.com/), que cria o tile e ainda mostra um preview para você.
 
 ## 參考連結
-+ [Arduino Internal Pull-Up Resistor Tutorial](https://www.baldengineer.com/arduino-internal-pull-up-resistor-tutorial.html)
+* [Arduino Internal Pull-Up Resistor Tutorial](https://www.baldengineer.com/arduino-internal-pull-up-resistor-tutorial.html)
