@@ -3,12 +3,12 @@ layout: post
 title: "Arduino / I01 / 按壓開關"
 date: 2017-03-09 00:00:05
 description: "按壓開關 (Push button) 是一個常開按鈕，不按壓時為開路不連通(OFF)，按壓時形成短路連通(ON)。"
-main-class: 'dev'
+main-class: 'arduino'
 color: '#637a91'
 tags:
 - "Arduino"
-twitter_text: "Favicons, touch icons e tile icons..."
-introduction: "Qual a importância dos favicons, touch icons e tile icons. Como criá-los automáticamente e como usá-los em seu site."
+twitter_text: "Arduino / I01 / 按壓開關"
+introduction: "Arduino / I01 / 按壓開關"
 ---
 
 Já que estou participando da campanha do [Fernando Daciuk](http://blog.da2k.com.br/) que é o **#1postperday**, resolvi criar uma outra hashtag, que será a **#dicarapida**. Como o próprio nome diz, serão dicas rápidas, mas que as vezes a gente não faz ou esquece ou ninguém falou por ser "bobo".
