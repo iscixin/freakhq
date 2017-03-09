@@ -7,17 +7,18 @@ main-class: 'arduino'
 color: '#637a91'
 tags:
 - "Arduino"
+- "Input"
 twitter_text: "Arduino / I01 / 按壓開關"
-introduction: "Arduino / I01 / 按壓開關"
+introduction: "按壓開關 (Push button) 是一個常開按鈕，不按壓時為開路不連通(OFF)，按壓時形成短路連通(ON)。"
 ---
 
 Já que estou participando da campanha do [Fernando Daciuk](http://blog.da2k.com.br/) que é o **#1postperday**, resolvi criar uma outra hashtag, que será a **#dicarapida**. Como o próprio nome diz, serão dicas rápidas, mas que as vezes a gente não faz ou esquece ou ninguém falou por ser "bobo".
 
 A minha ideia também será postar coisas em um nível também iniciante, assim ajuda uma galera nova, que está começando agora.
 
-## Favicons
+## 電路示意圖
 
-![Favicons](/assets/img/dica-rapida-1/favicons.png)
+![PushButton Circuit](https://www.arduino.cc/en/uploads/Tutorial/inputPullupButton.png)
 
 Pequenos e bastante simples, mas que já ajudam a identificar um site sem necessidade de mais nenhuma informação. Aposto que você sabe todos os sites que estão abertos na imagem acima =)
 
