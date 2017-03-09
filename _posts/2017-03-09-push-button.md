@@ -2,11 +2,11 @@
 layout: post
 title: "Arduino / I01 / 按壓開關"
 date: 2017-03-09 00:00:05
-description: "Detalhes fazem a diferença, vamos falar sobre Favicons, Touch Icons e Tile Icons e como eles fazem a diferença."
+description: "按壓開關 (Push button) 是一個常開按鈕，平常為開路不連通，按下去時才形成通路。"
 main-class: 'dev'
 color: '#637a91'
 tags:
-- "dicarapida"
+- "Arduino"
 twitter_text: "Favicons, touch icons e tile icons..."
 introduction: "Qual a importância dos favicons, touch icons e tile icons. Como criá-los automáticamente e como usá-los em seu site."
 ---
