@@ -136,4 +136,5 @@ Para fazer funcionar, basta adicionar as seguintes linhas no head:
 Tem [esse site](http://www.buildmypinnedsite.com/), que cria o tile e ainda mostra um preview para você.
 
 ## 參考連結
+* [Input Pullup Serial](https://www.arduino.cc/en/Tutorial/InputPullupSerial)
 * [Arduino Internal Pull-Up Resistor Tutorial](https://www.baldengineer.com/arduino-internal-pull-up-resistor-tutorial.html)
