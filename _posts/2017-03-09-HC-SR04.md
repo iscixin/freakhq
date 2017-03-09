@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Arduino / I01 / 按壓開關"
+title: "Arduino / I02 / 超音波測距傳感器"
 date: 2017-03-09 00:00:05
-description: "按壓開關 (Push button) 是一個常開按鈕，不按壓時為開路不連通(OFF)，按壓時形成短路連通(ON)。"
+description: "超音波測距傳感器。"
 main-class: 'arduino'
-color: '#637a91'
+color: '#D6BA32'
 tags:
 - "Arduino"
 - "Input"
-twitter_text: "Arduino / I01 / 按壓開關"
-introduction: "按壓開關 (Push button) 是一個常開按鈕，不按壓時為開路不連通(OFF)，按壓時形成短路連通(ON)。"
+twitter_text: "Arduino / I02 / 超音波測距傳感器"
+introduction: "超音波測距傳感器。"
 ---
 
 我們利用按壓開關按下時回傳給 Arduino 板子的訊號，做為觸發輸出端改變的判斷，以下的電路示意與第一段程式碼，示範情境為：按下按壓開關則點亮主板內建 LED，放開按壓開關則關閉主板內建 LED
