@@ -141,8 +141,5 @@ Para fazer funcionar, basta adicionar as seguintes linhas no head:
 
 Tem [esse site](http://www.buildmypinnedsite.com/), que cria o tile e ainda mostra um preview para você.
 
-## Conclusão
-
-Pequenos detalhes fazem grandes diferenças e passam de simples sites feitos por sobrinhos, para sites profissionais. Se liga, faz um trabalho legal e será recompensado.
-
-Fica aqui a primeira #dicarapida, quer que eu fale de algum assunto? Manda para [@willian_justen](https://twitter.com/Willian_justen) com a hashtag ou comenta aqui embaixo.
+## 參考連結
++ [Arduino Internal Pull-Up Resistor Tutorial](https://www.baldengineer.com/arduino-internal-pull-up-resistor-tutorial.html)
