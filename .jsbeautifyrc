@@ -1,0 +1,11 @@
+{
+  "html": {
+    "allowed_file_extensions": [],
+    "indent_char": "\t",
+    "indent_size": 1
+  },
+  "js": {
+    "indent_char": " ",
+    "indent_size": 2
+  }
+}
