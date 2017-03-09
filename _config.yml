@@ -5,9 +5,9 @@ baseurl: "/freakhq" # the subpath of your site, e.g. /blog
 url: "https://iscixin.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
+username: Jimmy Yen
+user_description: NULL
+email: jimmyyen55@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
@@ -31,8 +31,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series
+  # - title: Series
+  #   url: /series
   - title: Tags
     url: /tags
   # - title: About Me

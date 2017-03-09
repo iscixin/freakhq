@@ -152,6 +152,7 @@ boolean debounced() { // check if debounced
 
 我們這裡再多加一行程式碼，用一個空迴圈的寫法，讓 swState 是 LOW 狀態的時候，進入一個什麼動作都不會作的迴圈，然後一直等到 swState 狀態改變為 HIGH（也就是你再次放開的時候），才讓程式跳脫空迴圈，從頭再來過。
 
+#### 程式碼四
 {% highlight c %}
 const byte swPin = 2;
 const byte ledPin = 13;
