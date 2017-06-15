@@ -2,4 +2,8 @@
     <p>Template Made with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <span class="love">❤</span> by <a target="_blank" href="http://willianjusten.com.br">Willian Justen</a></p>
     <p>Modified by Jimmy Yen</p>
 </footer>
+
+{% if site.google_analytics %}
+{% include analytics.html %}
+{% endif %}
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>

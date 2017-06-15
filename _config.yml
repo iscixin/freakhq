@@ -40,3 +40,6 @@ links:
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+
+# Google services
+google_analytics: "UA-101125285-1"
